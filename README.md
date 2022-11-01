@@ -2,8 +2,12 @@
 
 # A fake credential harvesting rogue captive portal for Raspberry Pi ZeroW / 3 / 3 B+ using Kali Linux
 
+ZMODYFIKOWANA WERSIA
+
 I do NOT take any responsibility for your actions while using any material provided from this repository.
 Performing attacks on public users is illegal and should require permission from all users within the radius of the network.
+
+
 
 Software:
 
